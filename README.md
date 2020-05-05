@@ -39,4 +39,4 @@ add.addEventListener("click", () => countStore.dispatch({ type: ADD }));
 minus.addEventListener("click", () => countStore.dispatch({ type: MINUS }));
 ```
 
-![counter](gif/counter.gif)
+![counter](https://github.com/daonez/learn-redux1/blob/master/src/gif/counter.gif?raw=true)
