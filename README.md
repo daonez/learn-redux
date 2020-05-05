@@ -39,4 +39,4 @@ add.addEventListener("click", () => countStore.dispatch({ type: ADD }));
 minus.addEventListener("click", () => countStore.dispatch({ type: MINUS }));
 ```
 
-![counter](https://gdurl.com/sjEA)
+![counter](gif/counter.gif)
